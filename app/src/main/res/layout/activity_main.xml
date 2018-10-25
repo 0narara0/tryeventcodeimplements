@@ -29,4 +29,18 @@
         android:layout_gravity="center"
         android:text="ANDROID ONCLICK2" />
 
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ANDROID ONLONGCLICK1" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ANDROID ONLONGCLICK2" />
+
 </LinearLayout>
